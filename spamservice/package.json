@@ -1,0 +1,16 @@
+{
+  "name": "spamservice",
+  "version": "0.0.0",
+  "description": "A spam service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Viktor Varland",
+  "license": "BSD",
+  "dependencies": {},
+  "devDependencies": {
+    "request-json": "~0.4.4"
+  }
+}
