@@ -7,7 +7,7 @@ https://docs.google.com/presentation/d/1uQl8CN142gVnno5WZ7DK5JqHoOkTYCwrBFQyEc-4
 userservice/
 - Requires python (2.7)
 - Requires pip
-- Requies virtualenv
+- Requires virtualenv
 
         ../userservice/$ virtualenv .
         ../userservice/$ pip install -r dependencies.txt
@@ -26,7 +26,7 @@ spamservice/
 generatorservice/
 - Requires python (2.7)
 - Requires pip
-- Requies virtualenv
+- Requires virtualenv
 
         ../generatorservice/$ virtualenv .
         ../generatorservice/$ pip install -r dependencies.txt
