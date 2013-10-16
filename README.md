@@ -9,18 +9,18 @@ userservice/
 - Requires pip
 - Requies virtualenv
 
-    ../userservice/$ virtualenv .
-    ../userservice/$ pip install -r dependencies.txt
-    ../userservice/$ source bin/activate
-    ../userservice/$ python app/server.py
+        ../userservice/$ virtualenv .
+        ../userservice/$ pip install -r dependencies.txt
+        ../userservice/$ source bin/activate
+        ../userservice/$ python app/server.py
 
 
 spamservice/
 - Requires node
 - deps in package.json
 
-    ../spamservice$ npm install
-    ../spamservice$ node app/index.js
+        ../spamservice$ npm install
+        ../spamservice$ node app/index.js
 
 
 generatorservice/
@@ -28,9 +28,10 @@ generatorservice/
 - Requires pip
 - Requies virtualenv
 
-    ../generatorservice/$ virtualenv .
-    ../generatorservice/$ pip install -r dependencies.txt
-    ../generatorservice/$ source bin/activate
-    ../generatorservice/$ python app/generator.py
+        ../generatorservice/$ virtualenv .
+        ../generatorservice/$ pip install -r dependencies.txt
+        ../generatorservice/$ source bin/activate
+        ../generatorservice/$ python app/generator.py
+
 
 
